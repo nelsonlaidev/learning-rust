@@ -1,0 +1,14 @@
+// prettier-ignore
+{
+  "Main function": {
+    "prefix": "main",
+    "body": [
+      "#![allow(unused)]",
+      "",
+      "fn main() {",
+      "    $0",
+      "}"
+    ],
+    "description": "Main function template"
+  }
+}
