@@ -1,4 +1,4 @@
-#![allow(unused)]
+#![allow(unused, non_camel_case_types)]
 
 struct Point<T> {
     x: T,
